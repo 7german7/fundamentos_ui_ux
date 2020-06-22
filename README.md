@@ -5,16 +5,16 @@ Curso de Fundamentos de Diseño de Interfaces UI y UX
 
 ## Contenido
 
-1. [Clase 1: Introducción](#Clase-1:-Introducción)
+1. [Clase 1: Introducción](#Introducción)
 2. [Clase 2: ¿Qué es user experience?](#Clase-2:-¿Qué-es-user-experience?)
 3. [Clase 3: ¿Qué implica ser un diseñador de interfaces?](#Clase-3:-¿Qué-implica-ser-un-diseñador-de-interfaces?)
 4. [Clase 4: Básicos de Diseño](#Clase-4:-Básicos-de-Diseño)
 5. [Clase 5: Principios de Gestalt y UX](#Clase-5:-Principios-de-Gestalt-y-UX)
 6. [Clase 6: Principios de Usabilidad y Heurística](#Clase-6:-Principios-de-Usabilidad-y-Heurística)
-7. [Clase 7: Kickoff del proyecto del curso](#Clase 7: Kickoff del proyecto del curso)
+7. [Clase 7: Kickoff del proyecto del curso](#Clase-7:-Kickoff-del-proyecto-del-curso)
 8. [Terminologías Estudiadas](#Terminologías-Estudiadas)
 
-## Clase 1: Introducción
+## Introducción
 Aprenderemos
 - Diseñar una interfaz desde cero.
 - Básicos y diseños de usabilidad.
