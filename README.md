@@ -12,7 +12,9 @@ Curso de Fundamentos de Diseño de Interfaces UI y UX
 5. [Clase 5: Principios de Gestalt y UX](#Principios-de-Gestalt-y-UX)
 6. [Clase 6: Principios de Usabilidad y Heurística](#Principios-de-Usabilidad-y-Heurística)
 7. [Clase 7: Kickoff del proyecto del curso](#Kickoff-del-proyecto-del-curso)
-8. [Terminologías Estudiadas](#Terminologías-Estudiadas)
+8. [Entender el problema](#Entender-el-problema)
+30. [Terminologías Estudiadas](#Terminologías-Estudiadas)
+
 
 ## Introducción
 Aprenderemos
@@ -120,14 +122,72 @@ Son 10 principios que fueron creados por Jacob Nilsen y que nos ayudan a crear i
 - La idea es que la búsqueda sea de los mas fácil y rápido posible.
 
 **Preguntas a considerar**
+
 - ¿Como es actualmente la experiencia de buscar un departamento? => Avisos, periódicos, letreros, web, etc.
+  
+  Mayormente se debe contactar al rendatario via telefónica para pedir información adicional de los departamentos,
+  todo esto debido a que no se presenta mucha información en las redes sociales, lo que tambien conlleva a muchas
+  personas preguntarles a sus conocidos.
+  En Trinidad y Tobago el alquier de habitaciones o departamentos es demandante especialmente en la temporada de
+  carnavales, por lo tanto, debido a esta demanda los precios son bastante elevados dependiendo de la localidad.
+
 - ¿Que cosas son complicadas?
+  - Información poco descriptiva.
+  - Pocos medios digitales para adquirir información rapida.
+  - Los medios donde se puede conseguir información resulta ser complicado filtrar la información referente a lo que se desea.
+  - En los periódicos se puede conseguir mucha información pero poco descriptiva.
+
 - ¿Que cosas funcionan?
+  - Anuncios por periodico.
+  - Stitios Webs (pocos)
+  - Anuncios ó Letreros
+
 - ¿Cuales son los problemas que te gustaría resolver?
+  - Optimizar la busqueda.
+  - Filtrar información.
+
 - ¿Que podría mejorar?
+  - Información detallada de los departamentos.
+  - Manera facil de filtrar información.
+  - Experiencia de usuario.
+  - Metodos de pago.
+  
 - ¿Cuales son la necesidades mas importantes para estos usuarios?
+  - Acceso rápido a la información.
+  - Comparar diferentes opciones.
+  - Localidad cercana al trabajo.
 
 Brief (Lista de especificaciones de todo lo que tiene que tener mi proyecto), una vez que lea el Brief debo hacer una lista de 10 puntos (pain points o problemas) que puede que los usuarios experimenten a la hora de buscar un departamento.
+
+Pain Points:
+
+1. Interfaces poco intuitivas.
+2. Información poco descriptiva (reglas, restricciones).
+3. Muchas opciones en anuncios y periódicos, provocando perdida de tiempo contactando a los rendatarios.
+4. Filtros de búsqueda.
+5. Intermediarios (Costo adicional)
+6. Experiencias de usuarios anteriores.
+7. Estatus del apartamento (disponible u ocupado)
+8. Fecha de actualización de la publicación.
+9. Sección de comentarios y calificación.
+10. Comparar apartamentos para tomar decisión final.
+
+## Entender el problema
+**¿Qué queremos solucionar?, Ténicas:**
+1. Las 5 "W": Nos hacemos preguntas como...
+  - Who (Quién): ¿Quién es mi usuario?
+  - What (Qué): ¿Qué problema tiene?
+  - Where (Dónde): ¿Dónde lo está solucionando actualmente?
+  - When (Cuándo): ¿Cuándo se enfrenta a éste problema?
+  - Why (Por qué): ¿Por qué es importante para el resolverlo?
+
+2. Los 5 Why (Los 5 por qué): Logramos llegar a la raiz del problema y resolver soluciones que sean enfocadas en resolverlo, tambien se puede utilizar para entrevistas.
+  - ¿Por qué es difícil encontrar renta para los usuarios? => muchas opciones
+  - ¿Por qué no sabe escojer? => no existen los sitios necesarios para encontrar el departamento que está buscando.
+
+Una vez se tengan las respuestas a estas preguntas se puede comenzar a plantear una solucioón a los problemas.
+
+Referencia: [uxplanet](#https://uxplanet.org/designers-indispensable-skill-the-ability-to-write-and-present-a-solid-problem-statement-56a8b4b8060)
 
 ## Terminologías Estudiadas
 
