@@ -5,7 +5,7 @@ Curso de Fundamentos de Diseño de Interfaces UI y UX
 
 ## Contenido
 
-1. *Clase 1*:
+1. Clase 1 [Heading link](https://github.com/7german7/fundamentos_ui_ux/blob/master/README.md "Clase 1")
 
 ## Clase 1: Introducción
 Aprenderemos
