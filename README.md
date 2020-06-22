@@ -36,10 +36,10 @@ Aprenderemos
 - **User Centric**: Entender necesidades y problemas, y como el producto resuleve éstas áreas, ya que el foco principal es el cliente/usuario.
 
 Referencias:
-- [](#https://www.uxpin.com/studio/ebooks/ux-design-definitive-beginner-guide/)
-- [](#https://medium.com/stampede-team/people-smarts-5-essential-soft-skills-for-ux-designers-914f2a118ca6)
-- [](#https://careerfoundry.com/en/blog/ux-design/what-is-user-experience-ux-design-everything-you-need-to-know-to-get-started/)
-- [](#https://blog.acantu.com/que-es-ux-y-ui/)
+- [uxpin](#https://www.uxpin.com/studio/ebooks/ux-design-definitive-beginner-guide/)
+- [medium](#https://medium.com/stampede-team/people-smarts-5-essential-soft-skills-for-ux-designers-914f2a118ca6)
+- [careerfoundry](#https://careerfoundry.com/en/blog/ux-design/what-is-user-experience-ux-design-everything-you-need-to-know-to-get-started/)
+- [acantu](#https://blog.acantu.com/que-es-ux-y-ui/)
 
 ## Diseñador de interfaces
 
@@ -89,14 +89,14 @@ Recomendaciones:
 - 66 caracteres por línea es lo adecuado.
 -Para saber el tamaño adecuado del interlineado usa la fórmula 1+20% . Ejemplo: Si tienes una tipografía de tamaño 10 puntos el interlineado ideal sería de 12.
 - Es importante saber contrastar.
-3. Color
+3. **Color**
 
-Herramientas: https://colorable.jxnblk.com/ y https://fontpair.co/
+**Herramientas**: [jxnblk](#https://colorable.jxnblk.com/) y [fontpair](#https://fontpair.co/)
 
 ## Principios de Gestalt y UX
 
-- https://lawsofux.com/
-- https://www.uifrommars.com/principios-gestalt-diseno-web/
+- [lawsofux](#https://lawsofux.com/)
+- [uifrommars](#https://www.uifrommars.com/principios-gestalt-diseno-web/)
 
 ## Principios de Usabilidad y Heurística
 
@@ -128,7 +128,6 @@ Son 10 principios que fueron creados por Jacob Nilsen y que nos ayudan a crear i
 - ¿Cuales son la necesidades mas importantes para estos usuarios?
 
 Brief (Lista de especificaciones de todo lo que tiene que tener mi proyecto), una vez que lea el Brief debo hacer una lista de 10 puntos (pain points o problemas) que puede que los usuarios experimenten a la hora de buscar un departamento.
-- 
 
 ## Terminologías Estudiadas
 
