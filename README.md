@@ -25,7 +25,7 @@ Aprenderemos
 - Prototipados.
 - ¿Como conseguir pruebas exitosas con nuestros usuarios?
 
-Guía Principal: https://drive.google.com/file/d/1bN8prFwA1BOFOM0iKZ1d1RGhJqYaQeH6/view
+[Guía Principal](#https://drive.google.com/file/d/1bN8prFwA1BOFOM0iKZ1d1RGhJqYaQeH6/view) 
 
 ## User Experience
 
@@ -36,12 +36,12 @@ Guía Principal: https://drive.google.com/file/d/1bN8prFwA1BOFOM0iKZ1d1RGhJqYaQe
 - **User Centric**: Entender necesidades y problemas, y como el producto resuleve éstas áreas, ya que el foco principal es el cliente/usuario.
 
 Referencias:
-- https://www.uxpin.com/studio/ebooks/ux-design-definitive-beginner-guide/
-- https://medium.com/stampede-team/people-smarts-5-essential-soft-skills-for-ux-designers-914f2a118ca6
-- https://careerfoundry.com/en/blog/ux-design/what-is-user-experience-ux-design-everything-you-need-to-know-to-get-started/
-- https://blog.acantu.com/que-es-ux-y-ui/
+- [](#https://www.uxpin.com/studio/ebooks/ux-design-definitive-beginner-guide/)
+- [](#https://medium.com/stampede-team/people-smarts-5-essential-soft-skills-for-ux-designers-914f2a118ca6)
+- [](#https://careerfoundry.com/en/blog/ux-design/what-is-user-experience-ux-design-everything-you-need-to-know-to-get-started/)
+- [](#https://blog.acantu.com/que-es-ux-y-ui/)
 
-## Diseñador-de-interfaces
+## Diseñador de interfaces
 
 **Recomendaciones**:
 
@@ -49,7 +49,7 @@ Referencias:
 - **Es un maratón, no una carrera**: Al ser un proceso iterativo, implica que lo vamos a repetir varias veces, ya que nuestro producto o solución va a sufrir cambios, ya sea por retroalimentación del usuario, porque exista un cambio en el modelo del negocio o porque hay un cambio en la tecnología. Tener esto presente nos ayudará a evitar la frustración en nuestro día a día.
 - **Enamórate del problema, no de la solución**: Nuestra labor está enfocada en resolver el problema del usuario, no solamente en tener un producto que sea estéticamente agradable.
 
-### 5 Phases og the Design Thinking Process (Metodologías)
+### 5 Phases que the Design Thinking Process (Metodologías)
 
 1. **Emphathise(Empatía)**: Conocer la densidad de nuestros usuarios y entender sus problemas. 
 2. **Define(Definir)**: Definición al problema de lo que vamos a resolver y definir el alcanse de nuestro proyecto
