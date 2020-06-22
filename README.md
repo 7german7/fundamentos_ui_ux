@@ -12,7 +12,7 @@ Curso de Fundamentos de Diseño de Interfaces UI y UX
 5. [Clase 5: Principios de Gestalt y UX](#Clase-5:-Principios-de-Gestalt-y-UX)
 6. [Clase 6: Principios de Usabilidad y Heurística](#Clase-6:-Principios-de-Usabilidad-y-Heurística)
 7. [Clase 7: Kickoff del proyecto del curso](#Clase-7:-Kickoff-del-proyecto-del-curso)
-8. [Terminologías Estudiadas](#Terminologías-Estudiadas)
+
 
 ## Clase 1: Introducción
 Aprenderemos
