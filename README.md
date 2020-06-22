@@ -119,7 +119,7 @@ Son 10 principios que fueron creados por Jacob Nilsen y que nos ayudan a crear i
 - Buscar departamento es complicado.
 - La idea es que la búsqueda sea de los mas fácil y rápido posible.
 
-*Preguntas a considerar*
+**Preguntas a considerar**
 - ¿Como es actualmente la experiencia de buscar un departamento? => Avisos, periódicos, letreros, web, etc.
 - ¿Que cosas son complicadas?
 - ¿Que cosas funcionan?
