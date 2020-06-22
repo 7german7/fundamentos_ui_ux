@@ -7,7 +7,7 @@ Curso de Fundamentos de Diseño de Interfaces UI y UX
 
 1. [Clase 1](#Clase-1)
 
-## Clase 1: Introducción
+## Clase-1: Introducción
 Aprenderemos
 - Diseñar una interfaz desde cero.
 - Básicos y diseños de usabilidad.
