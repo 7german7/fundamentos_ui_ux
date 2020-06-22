@@ -6,8 +6,8 @@ Curso de Fundamentos de Diseño de Interfaces UI y UX
 ## Contenido
 
 1. [Clase 1: Introducción](#Introducción)
-2. [Clase 2: ¿Qué es user experience?](#¿Qué-es-user-experience?)
-3. [Clase 3: ¿Qué implica ser un diseñador de interfaces?](#Clase-3:-¿Qué-implica-ser-un-diseñador-de-interfaces?)
+2. [Clase 2: ¿Qué es user experience?](#User-Experience)
+3. [Clase 3: ¿Qué implica ser un diseñador de interfaces?](#Diseñador-de-interfaces)
 4. [Clase 4: Básicos de Diseño](#Básicos-de-Diseño)
 5. [Clase 5: Principios de Gestalt y UX](#Principios-de-Gestalt-y-UX)
 6. [Clase 6: Principios de Usabilidad y Heurística](#Principios-de-Usabilidad-y-Heurística)
@@ -27,7 +27,7 @@ Aprenderemos
 
 Guía Principal: https://drive.google.com/file/d/1bN8prFwA1BOFOM0iKZ1d1RGhJqYaQeH6/view
 
-## ¿Qué es user experience?
+## User Experience
 
 - **UX**: Es una disciplina que a través de procesos se encarga de crear un producto o servicio que crea valor.
 - **Objetivo**: Crear experiencias relevantes.
@@ -41,7 +41,7 @@ Referencias:
 - https://careerfoundry.com/en/blog/ux-design/what-is-user-experience-ux-design-everything-you-need-to-know-to-get-started/
 - https://blog.acantu.com/que-es-ux-y-ui/
 
-## ¿Qué implica ser un diseñador de interfaces?
+## Diseñador-de-interfaces
 
 **Recomendaciones**:
 
