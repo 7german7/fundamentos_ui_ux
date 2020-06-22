@@ -6,12 +6,12 @@ Curso de Fundamentos de Diseño de Interfaces UI y UX
 ## Contenido
 
 1. [Clase 1: Introducción](#Introducción)
-2. [Clase 2: ¿Qué es user experience?](#Clase-2:-¿Qué-es-user-experience?)
+2. [Clase 2: ¿Qué es user experience?](#¿Qué-es-user-experience?)
 3. [Clase 3: ¿Qué implica ser un diseñador de interfaces?](#Clase-3:-¿Qué-implica-ser-un-diseñador-de-interfaces?)
-4. [Clase 4: Básicos de Diseño](#Clase-4:-Básicos-de-Diseño)
-5. [Clase 5: Principios de Gestalt y UX](#Clase-5:-Principios-de-Gestalt-y-UX)
-6. [Clase 6: Principios de Usabilidad y Heurística](#Clase-6:-Principios-de-Usabilidad-y-Heurística)
-7. [Clase 7: Kickoff del proyecto del curso](#Clase-7:-Kickoff-del-proyecto-del-curso)
+4. [Clase 4: Básicos de Diseño](#Básicos-de-Diseño)
+5. [Clase 5: Principios de Gestalt y UX](#Principios-de-Gestalt-y-UX)
+6. [Clase 6: Principios de Usabilidad y Heurística](#Principios-de-Usabilidad-y-Heurística)
+7. [Clase 7: Kickoff del proyecto del curso](#Kickoff-del-proyecto-del-curso)
 8. [Terminologías Estudiadas](#Terminologías-Estudiadas)
 
 ## Introducción
@@ -27,7 +27,7 @@ Aprenderemos
 
 Guía Principal: https://drive.google.com/file/d/1bN8prFwA1BOFOM0iKZ1d1RGhJqYaQeH6/view
 
-## Clase 2: ¿Qué es user experience?
+## ¿Qué es user experience?
 
 - **UX**: Es una disciplina que a través de procesos se encarga de crear un producto o servicio que crea valor.
 - **Objetivo**: Crear experiencias relevantes.
@@ -41,7 +41,7 @@ Referencias:
 - https://careerfoundry.com/en/blog/ux-design/what-is-user-experience-ux-design-everything-you-need-to-know-to-get-started/
 - https://blog.acantu.com/que-es-ux-y-ui/
 
-## Clase 3: ¿Qué implica ser un diseñador de interfaces?
+## ¿Qué implica ser un diseñador de interfaces?
 
 **Recomendaciones**:
 
@@ -67,7 +67,7 @@ Referencias:
 
 Todos estos procesos los debemos repetir varias veces.
 
-## Clase 4: Básicos de Diseño
+## Básicos de Diseño
 
 1. Retícula: Se utiliza para hacer composiciones, sobre todo en diseño editorial. Antes se utilizaba para crear revistas y periódicos y actualmente se utiliza para crear contenidos web. Es importante implementar una retícula porque nos ayuda a estructurar y organizar mejor los elementos.
 **Partes**:
@@ -93,12 +93,12 @@ Recomendaciones:
 
 Herramientas: https://colorable.jxnblk.com/ y https://fontpair.co/
 
-## Clase 5: Principios de Gestalt y UX
+## Principios de Gestalt y UX
 
 - https://lawsofux.com/
 - https://www.uifrommars.com/principios-gestalt-diseno-web/
 
-## Clase 6: Principios de Usabilidad y Heurística
+## Principios de Usabilidad y Heurística
 
 Son 10 principios que fueron creados por Jacob Nilsen y que nos ayudan a crear interfaces intuitivas:
 1. **Visibilidad del estado del sistema**: Activado/desactivado, Subiendo Archivo/Error al subir archivo.
@@ -112,7 +112,7 @@ Son 10 principios que fueron creados por Jacob Nilsen y que nos ayudan a crear i
 9. **Ayudar a los usuarios a corregir y a deshacer errores**: Interfaz de ayuda para los usuarios.
 10. **Ayuda y recomendación**: Sección de ayuda de amazon.
 
-## Clase 7: Kickoff del proyecto del curso
+## Kickoff del proyecto del curso
 
 **Diseñar un sitio para buscar departamentos**
 - Enfocado en usuarios de 25 a 35 años (milenials).
