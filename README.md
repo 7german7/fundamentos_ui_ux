@@ -15,8 +15,8 @@ Curso de Fundamentos de Diseño de Interfaces UI y UX
 8. [Clase 8: Entender el problema](#Entender-el-problema)
 9. [Clase 9: Tipos de investigación](#Tipos-de-investigación)
 10. [Clase 10: Benchmarking](#Benchmarking)
-11. [Clase 11: User Research - Encuestas](#User-Research:-Encuestas)
-12. [Clase 12: User Research: Entrevistas](#User-Research:-Entrevistas)
+11. [Clase 11: User Research - Encuestas](#User-Research-Encuestas)
+12. [Clase 12: User Research - Entrevistas](#User-Research-Entrevistas)
 30. [Terminologías Estudiadas](#Terminologías-Estudiadas)
 
 
