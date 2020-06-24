@@ -14,6 +14,7 @@ Curso de Fundamentos de Diseño de Interfaces UI y UX
 7. [Clase 7: Kickoff del proyecto del curso](#Kickoff-del-proyecto-del-curso)
 8. [Entender el problema](#Entender-el-problema)
 9. [Tipos de investigación](#Tipos-de-investigación)
+10. [Benchmarking](#Benchmarking)
 30. [Terminologías Estudiadas](#Terminologías-Estudiadas)
 
 
@@ -208,6 +209,29 @@ La información obtenida se clasifica en 2:
     Se expresa en texto (Opiniones, Sensaciones)
 
 ¡OJO! Por lo que veo son dos clasificaciones distintas. No solo es decir “Hay 4 tipos de investigación”, sino más bien “Hay dos formas de clasificarlas”, por forma y por tipo de datos.
+
+## Benchmarking
+
+Consiste en analizar los sitios o aplicaciones que cumplen con la misma función que deseamos lograr, para realizar un Benchmarking hay que entender varias cosas:
+- ¿Qué están haciendo los competidores?
+- ¿Qué funciona y qué no funciona?
+- ¿Cuales son las explicativas mínimas en cuestión de funcionalidad que tienen los usuarios?
+- Identificar modelos de negocios u oportunidades de negocio que no estan siendo atacadas en este momento.
+- Mejoras en la interfaz que podemos hacer.
+- Identificar los patrones de diseño que están siendo utilizados dentro de la industria.
+
+Recomendaciones:
+
+- Hacer Benchmarking en Google Docs.
+- Airbnb, mercadolibre y fincaraiz (Rentas, alquileres, inmuebles).
+- Tomar screenshots de los resultados.
+- Examinar como se muestran los resultados y las funcionalidades que ofrecen.
+
+Reto:
+Hacer un benchmark de 3 competidores y analizar los resultados
+- ¿Que cosas tienen en común?
+- ¿Cuales son las diferencias?
+- ¿Que funcionalidades definitivamente deben estar en nuestro producto?
 
 ## Terminologías Estudiadas
 
