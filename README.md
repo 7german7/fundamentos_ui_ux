@@ -16,11 +16,14 @@ Curso de Fundamentos de Diseño de Interfaces UI y UX
 9. [Clase 9: Tipos de investigación](#Tipos-de-investigación)
 10. [Clase 10: Benchmarking](#Benchmarking)
 11. [Clase 11: User Research - Encuestas](#User-Research:-Encuestas)
+12. [Clase 12: User Research: Entrevistas](#User-Research:-Entrevistas)
 30. [Terminologías Estudiadas](#Terminologías-Estudiadas)
 
 
 ## Introducción
-Aprenderemos
+
+Aprenderemos a:
+
 - Diseñar una interfaz desde cero.
 - Básicos y diseños de usabilidad.
 - Técnicas de investigación.
@@ -79,7 +82,7 @@ Todos estos procesos los debemos repetir varias veces.
 - **Columna**: Alineaciones verticales donde podemos colocar nuestro contenido.
 - **Margen**: Espacio que existe entre el borde de la página y el contenido principal.
 - **Medianiles**: Espaciado entre columnas que nos ayudan a organizar o separar nuestro contenido.
-Recomendaciones para el diseño responsivo:
+**Recomendaciones para el diseño responsivo**:
 - Web => 12 columnas.
 - Tablet => 8 columnas.
 - Dispositivos Moviles (Celulares) => 4 columnas.
@@ -88,7 +91,7 @@ Recomendaciones para el diseño responsivo:
 - **Sans-serif**: Más geométricas y modernas. Ejemplo: Helvetica
 - **Monospace**: Todos los caracteres tienen el mismo ancho. Se usan en editores de texto o código. Ej. Courier new
 - **Scripts**: Imitan la escritura a mano.
-Recomendaciones:
+**Recomendaciones**:
 - Usa máximo 3 tipografías.
 - Asegúrate que las tipografías son legibles
 - 66 caracteres por línea es lo adecuado.
@@ -162,7 +165,7 @@ Son 10 principios que fueron creados por Jacob Nilsen y que nos ayudan a crear i
 
 Brief (Lista de especificaciones de todo lo que tiene que tener mi proyecto), una vez que lea el Brief debo hacer una lista de 10 puntos (pain points o problemas) que puede que los usuarios experimenten a la hora de buscar un departamento.
 
-Pain Points:
+**Pain Points**:
 
 1. Interfaces poco intuitivas.
 2. Información poco descriptiva (reglas, restricciones).
@@ -221,14 +224,14 @@ Consiste en analizar los sitios o aplicaciones que cumplen con la misma función
 - Mejoras en la interfaz que podemos hacer.
 - Identificar los patrones de diseño que están siendo utilizados dentro de la industria.
 
-Recomendaciones:
+**Recomendaciones**:
 
 - Hacer Benchmarking en Google Docs.
 - Airbnb, mercadolibre y fincaraiz (Rentas, alquileres, inmuebles).
 - Tomar screenshots de los resultados.
 - Examinar como se muestran los resultados y las funcionalidades que ofrecen.
 
-Reto: (Domingo)
+Reto: (*Domingo*)
 Hacer un benchmark de 3 competidores y analizar los resultados
 - ¿Que cosas tienen en común?
 - ¿Cuales son las diferencias?
@@ -249,7 +252,7 @@ Son herramientas que nos permiten adquirir opiniones, problemas, necesidades o e
 
 Es un dialogo que se establece cara a cara con el usuario o tambien se puede hacer de forma remota.
 
-Recomendaciones:
+**Recomendaciones**:
 - Preparar script (formulario).
 - Utilizar un metodo de grabación.
 - Tomar notas (de preferencia alguien) en caso contrario grabar video y audio.
