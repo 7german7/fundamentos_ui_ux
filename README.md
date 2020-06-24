@@ -12,9 +12,9 @@ Curso de Fundamentos de Diseño de Interfaces UI y UX
 5. [Clase 5: Principios de Gestalt y UX](#Principios-de-Gestalt-y-UX)
 6. [Clase 6: Principios de Usabilidad y Heurística](#Principios-de-Usabilidad-y-Heurística)
 7. [Clase 7: Kickoff del proyecto del curso](#Kickoff-del-proyecto-del-curso)
-8. [Entender el problema](#Entender-el-problema)
-9. [Tipos de investigación](#Tipos-de-investigación)
-10. [Benchmarking](#Benchmarking)
+8. [Clase 8: Entender el problema](#Entender-el-problema)
+9. [Clase 9: Tipos de investigación](#Tipos-de-investigación)
+10. [Clase 10: Benchmarking](#Benchmarking)
 30. [Terminologías Estudiadas](#Terminologías-Estudiadas)
 
 
