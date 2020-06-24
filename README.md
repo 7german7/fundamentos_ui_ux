@@ -241,7 +241,27 @@ Son herramientas que nos permiten adquirir opiniones, problemas, necesidades o e
 1. Objetivo
 2. Redactar preguntas cerradas y con diferentes opciones.
 3. Herramientas para encuentas: typeform, google forms, monkey service.
-4. 
+
+**Materiales**:
+- [Typeform](#https://www.typeform.com/)
+
+## User Research: Entrevistas
+
+Es un dialogo que se establece cara a cara con el usuario o tambien se puede hacer de forma remota.
+
+Recomendaciones:
+- Preparar script (formulario).
+- Utilizar un metodo de grabación.
+- Tomar notas (de preferencia alguien) en caso contrario grabar video y audio.
+- Tener aptitud empatica y abierta con el usuario => este proceso tambien se le conoce como rapport (el usuario al sentirse comodo y seguro puede expresarse de manera abierta).
+
+**Material**:
+- [Entrevistas UX](#https://dispersium.es/entrevistas-en-ux/)
+
+**Cursos Relacionados**:
+- [User Research](#https://platzi.com/clases/user-research/)
+- [UX Testing](#https://platzi.com/clases/ux-testing/)
+- [UX and UI explicados](#https://www.youtube.com/watch?v=zUZSSkRQXQQ&feature=youtu.be)
 
 ## Terminologías Estudiadas
 
