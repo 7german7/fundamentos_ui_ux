@@ -15,6 +15,7 @@ Curso de Fundamentos de Diseño de Interfaces UI y UX
 8. [Clase 8: Entender el problema](#Entender-el-problema)
 9. [Clase 9: Tipos de investigación](#Tipos-de-investigación)
 10. [Clase 10: Benchmarking](#Benchmarking)
+11. [Clase 11: User Research - Encuestas](#User-Research:-Encuestas)
 30. [Terminologías Estudiadas](#Terminologías-Estudiadas)
 
 
@@ -116,7 +117,7 @@ Son 10 principios que fueron creados por Jacob Nilsen y que nos ayudan a crear i
 9. **Ayudar a los usuarios a corregir y a deshacer errores**: Interfaz de ayuda para los usuarios.
 10. **Ayuda y recomendación**: Sección de ayuda de amazon.
 
-## Kickoff del proyecto del curso
+## Kickoff del proyecto del curso (Domingo)
 
 **Diseñar un sitio para buscar departamentos**
 - Enfocado en usuarios de 25 a 35 años (milenials).
@@ -174,7 +175,7 @@ Pain Points:
 9. Sección de comentarios y calificación.
 10. Comparar apartamentos para tomar decisión final.
 
-## Entender el problema
+## Entender el problema (Domingo)
 **¿Qué queremos solucionar?, Ténicas:**
 1. Las 5 "W": Nos hacemos preguntas como...
   - Who (Quién): ¿Quién es mi usuario?
@@ -227,11 +228,20 @@ Recomendaciones:
 - Tomar screenshots de los resultados.
 - Examinar como se muestran los resultados y las funcionalidades que ofrecen.
 
-Reto:
+Reto: (Domingo)
 Hacer un benchmark de 3 competidores y analizar los resultados
 - ¿Que cosas tienen en común?
 - ¿Cuales son las diferencias?
 - ¿Que funcionalidades definitivamente deben estar en nuestro producto?
+
+## User Research: Encuestas (Domingo)
+
+Son herramientas que nos permiten adquirir opiniones, problemas, necesidades o experiencias de nuestros usuarios de forma cuantitativa o cualitaviva, para lograr esto debemos tomar en cuenta varios puntos:
+
+1. Objetivo
+2. Redactar preguntas cerradas y con diferentes opciones.
+3. Herramientas para encuentas: typeform, google forms, monkey service.
+4. 
 
 ## Terminologías Estudiadas
 
