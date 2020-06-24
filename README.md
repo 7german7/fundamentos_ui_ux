@@ -13,6 +13,7 @@ Curso de Fundamentos de Diseño de Interfaces UI y UX
 6. [Clase 6: Principios de Usabilidad y Heurística](#Principios-de-Usabilidad-y-Heurística)
 7. [Clase 7: Kickoff del proyecto del curso](#Kickoff-del-proyecto-del-curso)
 8. [Entender el problema](#Entender-el-problema)
+9. [Tipos de investigación](#Tipos-de-investigación)
 30. [Terminologías Estudiadas](#Terminologías-Estudiadas)
 
 
@@ -138,7 +139,7 @@ Son 10 principios que fueron creados por Jacob Nilsen y que nos ayudan a crear i
   - En los periódicos se puede conseguir mucha información pero poco descriptiva.
 
 - ¿Que cosas funcionan?
-  - Anuncios por periodico.
+  - Anuncios por periodico. 
   - Stitios Webs (pocos)
   - Anuncios ó Letreros
 
@@ -188,6 +189,25 @@ Pain Points:
 Una vez se tengan las respuestas a estas preguntas se puede comenzar a plantear una solucioón a los problemas.
 
 Referencia: [uxplanet](#https://uxplanet.org/designers-indispensable-skill-the-ability-to-write-and-present-a-solid-problem-statement-56a8b4b8060)
+
+## Tipos de investigación
+Nos sirven para conocer mejor a nuestros usuarios, obtener información y probar nuestras hipótesis.
+
+1. Formal:
+A/B Testing, Analytics, Estudios Etnográficos, Pruebas con usuarios, Entrevistas y Encuestas.
+
+2. Informal:
+Guerrilla Testing, Pruebas Remotas, Design Wall es cuando imprimimos bocetos o mockups de nuestro proyecto e invitamos al resto del equipo o usuarios a dejar sus comentarios en forma de anotaciones y post its post its.
+
+La información obtenida se clasifica en 2:
+
+    Cuantitativa:
+    Se expresa en números (Cantidad, Duración).
+
+    Cualitativa:
+    Se expresa en texto (Opiniones, Sensaciones)
+
+¡OJO! Por lo que veo son dos clasificaciones distintas. No solo es decir “Hay 4 tipos de investigación”, sino más bien “Hay dos formas de clasificarlas”, por forma y por tipo de datos.
 
 ## Terminologías Estudiadas
 
