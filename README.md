@@ -220,7 +220,7 @@ Consiste en analizar los sitios o aplicaciones que cumplen con la misma función
 - ¿Qué están haciendo los competidores?
 - ¿Qué funciona y qué no funciona?
 - ¿Cuales son las explicativas mínimas en cuestión de funcionalidad que tienen los usuarios?
-- Identificar modelos de negocios u oportunidades de negocio que no estan siendo atacadas en este momento.
+- Identificar modelos de negocios u oportunidades de negocio que no estan siendo atacadas al momento.
 - Mejoras en la interfaz que podemos hacer.
 - Identificar los patrones de diseño que están siendo utilizados dentro de la industria.
 
@@ -233,9 +233,9 @@ Consiste en analizar los sitios o aplicaciones que cumplen con la misma función
 
 Reto: (*Domingo*)
 Hacer un benchmark de 3 competidores y analizar los resultados
-- ¿Que cosas tienen en común?
+- ¿Qué cosas tienen en común?
 - ¿Cuales son las diferencias?
-- ¿Que funcionalidades definitivamente deben estar en nuestro producto?
+- ¿Qué funcionalidades definitivamente deben estar en nuestro producto?
 
 ## User Research: Encuestas (Domingo)
 
